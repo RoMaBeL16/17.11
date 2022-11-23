@@ -1,0 +1,111 @@
+.all{
+    border: 1px solid blue;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: aliceblue;
+}
+.all1{
+    margin-top: 10px;
+    border: 1px solid blue;
+    display: flex;
+    color: aliceblue;
+    background-color: blue;
+    justify-content: center;
+    height: auto;
+    align-items: stretch;
+}
+.all2{
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
+.all21{
+    margin-top: 10px;
+    border: 1px solid blue;
+    display: flex;
+    color: aliceblue;
+    background-color: blue;
+    justify-content: center;
+    height: auto;
+    align-items: center;
+    width: auto;
+
+}
+.all31{
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+}
+.al21{
+    margin-top: 10px;
+    border: 1px solid blue;
+    display: flex;
+    color: aliceblue;
+    background-color: blue;
+    justify-content: flex-start;
+    height: auto;
+    align-items: center;
+    width: auto;
+    flex-direction: row-reverse;
+
+
+}
+.al31{
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+}
+.a21{
+    margin-top: 10px;
+    border: 1px solid blue;
+    display: flex;
+    color: aliceblue;
+    background-color: blue;
+    height: auto;
+    width: 500px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.l21{
+    margin-top: 10px;
+    border: 1px solid red;
+    display: flex;
+    color: aliceblue;
+    background-color: blue;
+    justify-content: flex-start;
+    height: auto;
+    align-items: flex-start;
+    width: 600px;
+    flex-direction: column;
+}
+.l31{
+    border: 3px solid black;
+    width: 100%;
+    font-size: 16px;
+    text-align: start;
+
+}
+.alla{
+    margin-top: 20px;
+    width: 600px;
+    height: 200px;
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.square{
+    width: 90px;
+    height: 90px;
+    border: 1px solid black;
+}
+
+
+
+
